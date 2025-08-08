@@ -6,7 +6,7 @@ Keep your Docker environment clean and tidy by removing unused volumes and image
 
 ## Quick Cleanup Commands
 
-Run these commands to safely remove **all unused Docker volumes and images**:
+Linux/WSL Run these commands to safely remove **all unused Docker volumes and images**:
 
 ```bash
 # Remove all unused Docker images and volumes (not used by any container)
